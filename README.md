@@ -5,11 +5,11 @@ This repository contains the R code used for computing all major results shown a
 "Environmental factors drive language density more in food-producing than in hunter-gatherer populations" by Derungs et al. (currently in review)
 
 ## Prerequisites
-In order to run these scripts locally the following two folder have to be downloaded:
+In order to run the R code locally the following two folders are required:
 
-- The R scripts require input data. All required input data can be downloaded from [this link]( https://www.dropbox.com/s/77i75beotws60bj/input.rar?dl=0). The downloaded input.rar has to be unpacked and stored in the same directory as the R code (there should be a folder called "input/").
+- Some of the R scripts read input data (e.g. language lists or environmental data). All required input data can be downloaded from [this link]( https://www.dropbox.com/s/77i75beotws60bj/input.rar?dl=0). The downloaded input.rar has to be unpacked and stored in the same directory as the R code (there should now be a folder called "input/").
 
-- The scripts store all results in an output folder. An the folder, including all results from a previous execution of the code, can be downloaded from [this link]( https://www.dropbox.com/s/p0326myjj002dlm/output.rar?dl=0). The downloaded output.rar has to be unpacked and stored in the same directory as the R code and the input folder.
+- Results are stored in an "output/" folder. An output folder that contains all results from a previous execution of the code can be downloaded from [this link]( https://www.dropbox.com/s/p0326myjj002dlm/output.rar?dl=0). The downloaded output.rar has to be unpacked and stored in the same directory as the R code and the input folder.
 
 
 ## Content
