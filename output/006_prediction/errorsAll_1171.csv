@@ -1,0 +1,9 @@
+"","error","effect","subsistance","level","type","totErr"
+"1",0.151041666666667,"peak","FP","language","all pred.",0.10205109273278
+"2",0.0913294797687861,"trough","FP","language","all pred.",0.10205109273278
+"3",0.355932203389831,"peak","HG","language","all pred.",0.106580131215741
+"4",0.0715123094958968,"trough","HG","language","all pred.",0.106580131215741
+"5",0.253012048192771,"peak","FP","family","all pred.",0.13301064782106
+"6",0.105732484076433,"trough","FP","family","all pred.",0.13301064782106
+"7",0.453333333333333,"peak","HG","family","all pred.",0.121548664361961
+"8",0.0913348946135831,"trough","HG","family","all pred.",0.121548664361961
